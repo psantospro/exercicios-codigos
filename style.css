@@ -30,7 +30,6 @@ body {
 }
 
 .post-content {
-    color: ;
     width: 100%;
     border: 0;
     border-bottom: 16;
@@ -57,12 +56,13 @@ ul {
     border: 2px solid grey;
     border-radius: 29px;
     
-.pic { 
-    align: center;
-    border: 10px solid black;
-    border-radius: 3%;
-    padding: 10px;
+    }
     
+.pic { 
+   
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 10px;
     
 }
        
